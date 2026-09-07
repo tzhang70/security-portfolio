@@ -9,7 +9,7 @@ Contact: t.zhang700@yahoo.com · https://www.linkedin.com/in/thomzhang/
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | coming, week 1 |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write Up, week 1](https://github.com/tzhang70/security-portfolio/blob/main/Operation%20Dead%20Deploy/Operation%20Dead%20Deploy%20Write%20Up.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
