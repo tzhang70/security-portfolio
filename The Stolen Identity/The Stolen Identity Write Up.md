@@ -1,7 +1,6 @@
 # [The Stolen Identity]
 
 ## Scenario
-2 to 3 sentences. What was the situation and what question did the investigation answer? Frame it like a work ticket, not homework.
 Someone was successful in their phishing campaign against one of the employees at Mat Hat Labs. Carl entered his credentials and multifactor authentication codes into a website that looked like the employee portal. With this access, the attacker created a new app registration called Mad-hat-Labs-App and provisioned it to expose APIs to continue collecting tokens from real users in the Mad-Hat-Labs tenant allowing the attacker to rotate credentials.
 
 ## Environment
@@ -26,7 +25,6 @@ Live multi-user Azure training tenant, Reader access.
 I was surprised by how much an attacker can do once they get their hands on one credential. If things are not secured down properly, there are so many ways for an attacker to traverse and enumerate to find their next attack vector.
 
 ## Findings and recommendations
-What you determined, plus 2 or 3 recommendations as if you were reporting to the resource owner.
 1. I highly recommend employees get trained on phishing campaigns. It may seem pointless at first, but constantly sending practice phishing emails to employees can go a long way in preventing that issue as it is much easier to get a person to share their credentials than it is to break through the security walls.
 2. I would also recommend audits to deprovision legacy/unused apps like the Mad-Hat-Legacy-Sync-Service. This would have stopped one of the attack vectors. 
 
