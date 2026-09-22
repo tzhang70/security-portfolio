@@ -7,7 +7,6 @@ A junior intern,with no prior experience to the company's governance standards, 
 Live multi-user Azure training tenant, Reader access.
 
 ## Investigation
-The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).
 1. Investigated the resource groups and found that the naming convention did not match the required naming scheme recommended by Microsoft. “testdeploy123” 
 <img width="163" height="230" alt="image" src="https://github.com/user-attachments/assets/e3dbfc47-4aa8-407b-9e34-6da3b4698e6c" />
 
