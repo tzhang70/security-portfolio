@@ -1,4 +1,4 @@
-# [The Stolen Identity]
+# The Stolen Identity
 
 ## Scenario
 Someone was successful in their phishing campaign against one of the employees at Mat Hat Labs. Carl entered his credentials and multifactor authentication codes into a website that looked like the employee portal. With this access, the attacker created a new app registration called Mad-hat-Labs-App and provisioned it to expose APIs to continue collecting tokens from real users in the Mad-Hat-Labs tenant allowing the attacker to rotate credentials.
