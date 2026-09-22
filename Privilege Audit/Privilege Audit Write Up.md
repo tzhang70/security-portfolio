@@ -1,7 +1,6 @@
 # Privileged Audit
 ## Scenario
-2 to 3 sentences. What was the situation and what question did the investigation answer? Frame it like a work ticket, not homework.
-I was tasked with auditing all the Role Assignments in the current Azure Directory to check for redundancy and to adhere to the principal of least-privilege. 
+I was tasked with auditing all the Role Assignments in the current Azure Directory to check for redundancy and to adhere to the principal of least-privilege. I used methods such as KQL queries and the Azure CLI to discover unknown deleted accounts.
 
 
 ## Environment
@@ -24,9 +23,8 @@ Insert picture of CLI command with role export if it worked properly.
 Insert picture of query results that should have appeared.
 
 5. There was another method to confirm who was the deleted person so I navigated to Privileged Identity Management to export assignments and was able to find the deleted resource named "SVC RBAC Delete"
-<img width="1088" height="15" alt="image" src="https://github.com/user-attachments/assets/33ed1ca5-7bda-47f6-aaae-079b9d4a41be" />
 
-6. For my final task, I was given a task to find the hidden owner of a hidden resource group. Since I was already on the PIM page from the previous investigation, I decided to just look more into the role assignments page and activated the Operative role for the Resource group of "rg-madhatlabs-rbac".
+6. For my final task, I had to find the hidden owner of a hidden resource group. Since I was already on the PIM page from the previous investigation, I decided to just look more into the role assignments page and activated the Operative role for the Resource group of "rg-madhatlabs-rbac" out of curiosity.
 <img width="706" height="149" alt="image" src="https://github.com/user-attachments/assets/2ae79f18-8549-41ad-945e-43191aed466a" />
 
 7. The activation of the Operative role "rg-madhatlabs-rbac" also popped up a secret Operative role for the Resource group of "rg-madhatlabs-hidden-pim".
@@ -44,4 +42,5 @@ There were a few moments in the lab where I could not find what I was looking fo
 There are many ways to do audits and it is up to the person to cover every possible corner to discover hidden roles like I did with Carl.
 
 ## What I learned
-3 to 5 bullets. At least one technical, one "what I'd do differently."
+1. I learned two ways of auditing roles via KQL queries and Azure CLI. 
+
