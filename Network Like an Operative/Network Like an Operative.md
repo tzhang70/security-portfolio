@@ -9,8 +9,7 @@ Live multi-user Azure training tenant, Reader access
 ## Investigation
 1. I started by tracing how the packet travels through the network. First, I went into the resource group housing the service and checked the subnet range that is applied. This tells me the packet can travel from 10.60.1.0 to 10.60.1.255 barring the 5 that Azure reserves.
 <img width="899" height="506" alt="image" src="https://github.com/user-attachments/assets/753297e2-dcff-4c74-9d2d-d3f574b5e64e" />
-\
-\
+
 2. Upon looking further into the subnet, I discover that this subnet is attached to a Network Security Group called nsg-lab-workload. I head on over to the Network Security Group tab and find the nsg-lab-workload.
 
 <img width="316" height="23" alt="image" src="https://github.com/user-attachments/assets/9f251778-87bc-4338-bb9a-0e2823c1ba51" />
