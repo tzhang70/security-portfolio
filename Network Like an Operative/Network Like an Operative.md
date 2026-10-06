@@ -24,7 +24,9 @@ The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, 
 5. I head to the private endpoint and look at the DNS configuration and see which private ip address route got injected.
 <img width="661" height="230" alt="image" src="https://github.com/user-attachments/assets/f72fad23-d295-4c04-99f4-0047f3f35908" />
 
-6. Next, I head to the Private DNS Zone link provided in the above picture and check the record sets. There contains the ip address 
+6. Next, I head to the Private DNS Zone link provided in the above picture and check the record sets. There contains the ip address that points to the storage account.
+<img width="664" height="142" alt="image" src="https://github.com/user-attachments/assets/c7f369fa-03ab-43f7-a610-ba47abe7d5fa" />
+
 
 
 ## What broke / what surprised me
