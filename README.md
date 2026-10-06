@@ -13,7 +13,7 @@ Contact: t.zhang700@yahoo.com · https://www.linkedin.com/in/thomzhang/
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | [Write Up, week 2](https://github.com/tzhang70/security-portfolio/blob/main/The%20Stolen%20Identity/The%20Stolen%20Identity%20Write%20Up.md) |
 | 3 | Privilege Audit | RBAC and least privilege | [Write Up, week 3](https://github.com/tzhang70/security-portfolio/blob/main/Privilege%20Audit/Privilege%20Audit%20Write%20Up.md) |
 | 4 | Spin Up and Lock Down | Compute attack surface | [Write Up, week 4](https://github.com/tzhang70/security-portfolio/blob/main/The%20Friday%20Deploy/The%20Friday%20Deploy%20Write%20Up.md) |
-| 5 | Network the Operative | Network segmentation | coming, week 5 |
+| 5 | Network the Operative | Network segmentation | [Write Up, week 5](https://github.com/tzhang70/security-portfolio/blob/main/Network%20Like%20an%20Operative/Network%20Like%20an%20Operative.md) |
 | 6 | Bucket Looting | Storage exposure hunting | coming, week 6 |
 | 7 | Find the Anomaly | Log analysis and KQL | coming, week 7 |
 | 8 | Hunt the Threat | SIEM operations (Sentinel) | coming, week 8 |
