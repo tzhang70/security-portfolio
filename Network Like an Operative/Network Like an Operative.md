@@ -11,6 +11,7 @@ Live multi-user Azure training tenant, Reader access
 <img width="899" height="506" alt="image" src="https://github.com/user-attachments/assets/753297e2-dcff-4c74-9d2d-d3f574b5e64e" />
 
 \
+\
 2. Upon looking further into the subnet, I discover that this subnet is attached to a Network Security Group called nsg-lab-workload. I head on over to the Network Security Group tab and find the nsg-lab-workload.
 <img width="316" height="23" alt="image" src="https://github.com/user-attachments/assets/9f251778-87bc-4338-bb9a-0e2823c1ba51" />
 
