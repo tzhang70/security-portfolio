@@ -15,7 +15,7 @@ Contact: t.zhang700@yahoo.com · https://www.linkedin.com/in/thomzhang/
 | 4 | Spin Up and Lock Down | Compute attack surface | [Write Up, week 4](https://github.com/tzhang70/security-portfolio/blob/main/The%20Friday%20Deploy/The%20Friday%20Deploy%20Write%20Up.md) |
 | 5 | Network the Operative | Network segmentation | [Write Up, week 5](https://github.com/tzhang70/security-portfolio/blob/main/Network%20Like%20an%20Operative/Network%20Like%20an%20Operative.md) |
 | 6 | Bucket Looting | Storage exposure hunting | [Write Up, week 6](https://github.com/tzhang70/security-portfolio/blob/main/Looting%20Buckets/Looting%20Buckets.md) |
-| 7 | Find the Anomaly | Log analysis and KQL | coming, week 7 |
+| 7 | Find the Anomaly | Log analysis and KQL | [Write Up, week 7](https://github.com/tzhang70/security-portfolio/blob/main/Find%20the%20Anomaly/Find%20the%20Anomaly.md) |
 | 8 | Hunt the Threat | SIEM operations (Sentinel) | coming, week 8 |
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
